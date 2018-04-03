@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Public\Pokemon\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\Public\Pokemon\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_c4b237d29d7a2f22f49d5d4a6759f89b7a9bfa54\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="C:\Users\Public\Pokemon\app\build\intermediates\transforms\dex\debug\folders\1000\10\constraint-layout-solver-1.0.2_dce0f5dc4ec87302d879250c45fe5f3f72f02917\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Lucia Bolanča\.android\build-cache\ea63ddff86db918cb1490441cdf2e20d8ab95db5\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Public\Pokemon\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_73b045f9352b0f24ae3464a68826f9b588d02b52\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Lucia Bolanča\.android\build-cache\3afccc813693f2e7185b2f0f4f43df12c88acc06\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="C:\Users\Public\Pokemon\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_5c7a19cf85ba6f1b5f267b7b20d5cea417ec2e97\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Lucia Bolanča\.android\build-cache\9199211522383b475389e853fa06cc97ff329cb9\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="C:\Users\Public\Pokemon\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_3bb8e5a7c2e9e097a6ec7356b71c4bb5ffbe99d0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Lucia Bolanča\.android\build-cache\bf45d8f328fb3187eac65d91624a47ab8bdc54f5\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="C:\Users\Public\Pokemon\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e45ac5a4ff7fa0eb1066527e5503aa6b4d7bb8de\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Lucia Bolanča\.android\build-cache\08aa5b1accfb88703fa822281c5d86ae38fd8ecb\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="C:\Users\Public\Pokemon\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_9dbd024b109f400a012488781a3b357de4827c24\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Lucia Bolanča\.android\build-cache\f5584a7ee7f69616a3a8b8286b37da7b285a4890\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="C:\Users\Public\Pokemon\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d36dcd34c12071eb86c10c57359e0a8df4f40eed\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Lucia Bolanča\.android\build-cache\ccf60eb9cd6fd3438ef6515e7aa7d7dea0ef9081\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="C:\Users\Public\Pokemon\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a207209c602474819304c16042960a3df231bbc0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Public\Pokemon\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="1b9afe48cf3612e9941f02b1c883f80f5bd821cd">
+        <dex dex="C:\Users\Public\Pokemon\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_82a84c08a4d7cd92a9fee2bee20be6722d4311ca\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\26.0.0-alpha1\support-annotations-26.0.0-alpha1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="C:\Users\Public\Pokemon\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-26.0.0-alpha1_6b7bdd64075f27ac794055998accebfc57200291\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Lucia Bolanča\.android\build-cache\8dd79ea870a136258a0ef43d5573255fa66bdc3c\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="C:\Users\Public\Pokemon\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_6f567d05c25d6be7da7ac7598bcee5021f661227\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Lucia Bolanča\.android\build-cache\19b01a49abcf46812e09ab79a2cbc4f8730a6d4f\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="C:\Users\Public\Pokemon\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7b718d3878da7aa5277ad4acddea3b9cbd94cb88\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Lucia Bolanča\.android\build-cache\46fea31002e90e4f6bdcd8a56f9d343a46dd4d65\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="C:\Users\Public\Pokemon\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_26cbde538a3160605cd42397f53dd4d909447e71\classes.dex" />
+    </item>
+
+</items>
